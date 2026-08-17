@@ -23,10 +23,13 @@
 ```powershell
 npx -y @deepseek-ai/dsh plugin --profile web add dsh-nini-appearance
 ```
+<img width="813" height="726" alt="image" src="https://github.com/user-attachments/assets/0b195d42-a2f3-4d1f-aa8f-1a6a2f91e299" />
 
 重启 DSH Web 后，打开：`设置 -> 通用 -> 尼尼外观实验室`。
 
 与 `dsh-web-ui-all` 同时使用时，建议先在它的皮肤中心选择默认或接近默认的主题，再由本插件控制壁纸、透明度和颜色，避免两套主题同时覆盖相同 token。
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/41f5f7a5-d875-427b-8ed9-a8bce77760ae" />
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/83d19d93-de87-4780-ba78-dbf0c085f530" />
 
 ## 卸载
 
